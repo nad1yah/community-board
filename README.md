@@ -26,15 +26,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<div>
     <a href="https://www.loom.com/share/f68512e6c82a473a8badc3ad1ba6e5a8">
-      <p>Arc - Vite + React - 1 March 2025 - Watch Video</p>
+      <p>Video in case the GIF does not work</p>
     </a>
-    <a href="https://www.loom.com/share/f68512e6c82a473a8badc3ad1ba6e5a8">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f68512e6c82a473a8badc3ad1ba6e5a8-54b8612746868b2a-full-play.gif" title='Video Walkthrough' width='' alt='Video Walkthrough>
-    </a>
-  
-  </div>
+
+<img src="https://cdn.loom.com/sessions/thumbnails/f68512e6c82a473a8badc3ad1ba6e5a8-54b8612746868b2a-full-play.gif" title='Video Walkthrough' width='' alt='Video Walkthrough>
 GIF created with Loom 
 
 ## Notes
