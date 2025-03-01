@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-    <a href="https://www.loom.com/share/f68512e6c82a473a8badc3ad1ba6e5a8">
-      <p>Video in case the GIF does not work</p>
-    </a>
+*Video in case the GIF does not work* -- https://www.loom.com/share/f68512e6c82a473a8badc3ad1ba6e5a8
 
 <img src="https://cdn.loom.com/sessions/thumbnails/f68512e6c82a473a8badc3ad1ba6e5a8-54b8612746868b2a-full-play.gif" title='Video Walkthrough' width='' alt='Video Walkthrough>
 GIF created with Loom 
