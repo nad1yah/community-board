@@ -1,0 +1,50 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: black;
+  background-color: rgb(211, 211, 211);
+}
+
+
+ body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  
+}
+
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.Card {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.Card .bottom-text {
+  background-color: white;
+  padding: 25px;
+}
+
+.Card button {
+  background-color: #501098;
+  color: white;
+  padding: 10px;
+  border: white;
+}
+.Card button:hover {
+  background-color: white;
+  border: solid #501098;
+  color: #501098;
+}
